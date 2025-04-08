@@ -106,9 +106,8 @@ We welcome contributions from the community, especially those that enhance its b
 BlockBallot is a decentralized voting system built with Solana and Anchor. This documentation explains the smart contract structure, core modules, data types, and interaction flow.
 
 # 📁 Project Structure
-**plaintext**
-            Copy
-            Edit
+
+            
             BlockBallot/
             ├── programs/
             │   └── blockballot/
